@@ -1,3 +1,3 @@
-# network_binarization_papers
+# Neural network binarization papers
 This is my reading list of network binarization papers. 
 
